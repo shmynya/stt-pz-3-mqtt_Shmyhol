@@ -21,3 +21,11 @@
 │   │   ├── docker-compose.yml  # Варіант розгортання (резервний)
 │   ├── screenshots             # Скріншоти підтвердження роботи
 │   └── README.md               # Звіт про виконання
+
+## Докази виконання
+
+### 1. Статус брокера Mosquitto
+![Брокер працює](screenshots/broker_run.png)
+
+### 2. Успішний обмін повідомленнями (Publish/Subscribe)
+![Тест MQTT](screenshots/mqtt_test.png)
